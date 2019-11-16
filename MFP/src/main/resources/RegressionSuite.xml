@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite: OrangeHRM_RegressionTestingSuite" verbose="1" >
+  <test name="Release-R2.0" >
+    
+    <classes>
+      <class name="myproject.tests.LoginPageTests"/>
+      
+    </classes>
+  </test>
+</suite>

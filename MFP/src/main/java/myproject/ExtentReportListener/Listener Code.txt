@@ -1,0 +1,6 @@
+//The below code needs to be updated in testng.xml file
+
+<listeners>
+		<listener class-name="myproject.ExtentReportListener.ExtentReporterNG" />
+</listeners>
+
