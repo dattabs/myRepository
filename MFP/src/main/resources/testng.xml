@@ -11,7 +11,7 @@
     
     <classes>
       <class name="myproject.tests.LoginPageTests"/>
-      <!-- <class name="myproject.tests.HomePageTests"/> -->
+      <class name="myproject.tests.HomePageTests"/>
       
     </classes>
   </test>
